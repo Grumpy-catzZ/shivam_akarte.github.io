@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Shivam's Safari! 
+We will go on a ride to experiecne the wild , crazy and adventurous life of Shivam. 
 
 You can use the [editor on GitHub](https://github.com/Grumpy-catzZ/shivam_akarte.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
